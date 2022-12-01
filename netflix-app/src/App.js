@@ -1,9 +1,9 @@
 import Login from "./pages/login/Login";
+import Register from "./pages/Register/register";
 
 function App() {
   return (<>
-    <h1>hello App.js</h1>
-    <Login />
+    <Register />
   </>)
 
 

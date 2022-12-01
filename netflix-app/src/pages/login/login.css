@@ -1,4 +1,4 @@
-.login{
+/* .login{
     margin-left: 3rem;
     width: 40%;
     height: 40rem;
@@ -19,7 +19,7 @@
     justify-content: center;
     color: white;
 }
-form {
+.form {
     width: 300px;
     height: 300px;
     padding: 30px;
@@ -29,7 +29,7 @@ form {
     flex-direction: column;
     justify-content: space-around;
 }
-input {
+.input {
 height: 40px;
 border-radius: 5px;
 background-color: rgb(133, 166, 24);
@@ -37,4 +37,4 @@ color: white;
 padding-left: 10px;
 
 
-}
+} */
